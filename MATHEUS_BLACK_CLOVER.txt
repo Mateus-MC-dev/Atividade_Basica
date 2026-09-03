@@ -1,1 +1,6 @@
 "A vida não examinada não vale a pena ser vivida." — Sócrates
+
+Crie um arquivo .gitignore na raiz do seu projeto e adicione nele os nomes dos arquivos ou pastas que contêm segredos (por exemplo: .env, config.json, node_modules/). O Git vai ignorá-los e nunca mais vai sugerir enviá-los.
+
+Use variáveis de ambiente (como um arquivo .env.example sem os dados reais) para que o código saiba onde buscar as senhas localmente, sem expor os valores verdadeiros no código-fonte.Amo Davi Careca Sensacional Mlehor professor 
+Escrito Matheus
